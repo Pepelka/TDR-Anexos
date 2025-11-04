@@ -1,0 +1,5 @@
+green_light
+no_parking
+pedestrian_crossing
+red_light
+stop_sign

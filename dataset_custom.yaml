@@ -1,0 +1,9 @@
+#train: [C:\Users\Usuario\Desktop\yolov_11_custom\images\train, C:\Users\Usuario\Desktop\yolov_11_custom\labels\train]
+#val: [C:\Users\Usuario\Desktop\yolov_11_custom\images\val, C:\Users\Usuario\Desktop\yolov_11_custom\labels\val]
+
+train: C:\Users\Usuario\Desktop\yolov_11_custom\images\train
+val: C:\Users\Usuario\Desktop\yolov_11_custom\images\val
+
+nc: 5  #Número de clases
+
+names: ["green_light", "no_parking", "pedestrian_crossing", "red_light", "stop_sign"]  #Nombres de clases
